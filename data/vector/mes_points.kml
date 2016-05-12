@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="mes_points" id="mes_points">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="value" type="int"></SimpleField>
+</Schema>
+<Folder><name>mes_points</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">751</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.80139397649885,9.345835557201051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">849</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.959727277894711,10.0402799824629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">557</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.10417177350038,7.88750226415109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">433</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.96528283329708,9.48472444225342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">844</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.54306067786018,9.25694667076753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">823</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.37083848795838,8.840280015610389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">328</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.90972730684522,10.2819466424541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">746</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.156949522251059,8.398613361143839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">75</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.6652828967125,9.70416888063618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">155</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.370838405242621,9.1208355634162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">643</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.43194959738454,8.15416892345165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">774</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.84861628013483,6.83194673775302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">334</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.93472747158746,8.498613358381551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">870</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.34583846107576,9.245835559963339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">608</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.354171739035481,7.69583560277881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">299</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.34306071094649,8.254168920689359</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">697</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.9402828615583,9.7986133224718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">316</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.34306065580265,10.101391091886001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">260</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15694960496682,8.64028002113497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">759</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.78750506042098,9.54305777397542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">731</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.91250505697449,9.193057783643431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">314</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.60417187000211,10.0958355364839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">474</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.86806072404315,8.60416891102135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">899</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.05139399717779,10.337502196475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">813</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.21528293669179,8.384724472638601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.159727299952239,10.1458355351027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">780</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.32083848933698,8.41805780505117</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">105</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.79861622636958,10.2291688661342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">136</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.93194958359858,9.1208355634162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">51</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-9.04861616433276,9.412502222026189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">353</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.94028291670215,9.09861334180782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">171</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.56528295461354,9.884724431204271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">337</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.13472743850115,8.82916890480621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">637</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.43472743022957,8.681946686650679</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.62917175902512,8.31528003011241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">455</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.99028283260779,9.665279992821519</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.46528287465497,9.69861332523408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">801</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.89861630632816,9.22916889375705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">784</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.22917182519774,9.198613339045529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">805</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.6875050907501,9.01250223307534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">374</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.14861635457902,8.78750223929049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">72</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.86250508592501,9.095835564106769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">449</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.77639400476007,8.543057801598311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">594</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.88472747296605,8.42639113815431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">189</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.598616176740119,8.440280026659551</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">501</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.02083841489279,8.46528002596898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">754</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.70694953465842,10.365279973485499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">484</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.76250519896989,8.60416891102135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">52</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.19583854792731,8.80972446089887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">68</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.21250518656252,9.298613336283241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">373</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.40694954293,8.1625022565548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">790</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.18194965942137,8.151391145750599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">872</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.48472731856329,9.495835553057621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">554</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.94306066683142,8.079168925523369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">757</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.20972729857365,9.91250220821475</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">81</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.75139406059321,8.06250225931708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">825</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.662505063867471,9.440279999036671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">532</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95694958290928,7.15694672877558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">202</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.704171839673,6.93472451269178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">794</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.82361617053644,9.16528000663296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">950</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.60694959255946,9.80416887787389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">676</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.97917174937495,7.94305781817204</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">402</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.74028283950077,9.84305776568856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">521</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.29861624015554,9.562502217882759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">956</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.71250511763272,9.75694665695608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">102</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.42639406955409,9.58194666179009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">885</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.4819495408621,8.468057803670019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">191</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.95972736061047,8.65139113193916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">795</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.85139400269218,8.784724461589439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">999</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.67639397994534,10.9236132913961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">201</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.52639401165305,8.07361337012127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">344</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.04861635733621,8.331946696318701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">873</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.56250512176851,8.90694668043554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">302</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.94583838938876,8.64028002113497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">275</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.92639400062428,9.823613321781229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">561</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.73194967182873,9.01528001077639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">576</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.34306079366226,9.779168878564461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">487</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.34861632149271,7.89305781955318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.4319495422407,10.156946645906901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">737</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.79028289326602,10.193057756020499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">141</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.47639406817549,7.19583561659025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">684</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.5847273158061,9.448613332139811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">715</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.42361618156521,9.75972443465713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">534</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.96528291601285,8.173613367358991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">663</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.2263939923527,7.85972448714061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">789</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.437505125215,8.340280029421841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">468</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.49028298425336,8.068057814719181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">555</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.64583845280418,8.998613344570099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">291</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.55972742678308,8.329168918617651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">616</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.82639394823763,8.395835583442789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">845</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.13750524377426,9.37916888961362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">681</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.35417184932317,7.44861338738558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">893</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.80694961461699,9.41527999972724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">236</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.52083842867875,8.31805780781346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">909</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.468060624784229,9.990279983844079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">523</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-7.65139398063464,9.64583554891418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">586</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.19583854792731,7.82916893242909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1000</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-6.29861624015554,9.63750221581104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">669</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-8.23472729788435,8.5486133570004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">441</SimpleData>
+		<SimpleData name="value">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.72083850588013,7.51250227450967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">680</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.76528294909916,10.709724408415401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1125</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.12917185552685,10.2236133107321</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">141</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.19028293738109,10.9597244015097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1041</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.04583852449118,10.293057753258299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.94861627737764,11.034724399438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1221</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.82083853069486,10.048613315566101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">309</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.81528294772056,10.9263910690971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">153</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.20139404818585,10.9569466238086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">765</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.15139404956444,10.598613300373501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1102</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.12639407782566,10.2375021992373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">953</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.6569496463247,10.3847244173928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">190</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.8041718369158,10.951391068406499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">365</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.75417186586632,10.8708355150761</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">86</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.23472738060012,10.970835512313901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1011</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.98194966493575,10.3125021971656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">318</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.81806072542175,10.920835513695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">492</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.1680607433435,10.8319466272615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1161</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.31250518380533,10.209724422226801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">822</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.73194964425681,10.512502191641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1008</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.99028299803932,10.3125021971656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">600</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.17361627117396,10.7625021847353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">315</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.81806072542175,10.9236132913961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">785</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.33194962771366,10.5736133010641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">974</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.14028299390353,10.362502195784399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">70</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.20972738128941,10.9819466231181</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">663</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.25972740748274,10.7208355192196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">591</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.65694961875278,10.768057740137399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">107</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-5.20417182588704,10.9652799569118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1227</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.82083853069486,10.045835537865001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">884</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.3708385155303,10.456946637620099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1173</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.38194962633506,10.1847244229174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1149</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.30694962840295,10.215279977628899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">238</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.80139405921461,10.9430577353034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1093</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.11250518931972,10.2569466431446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">476</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.17361629874588,10.8375021826636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">174</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.79306072611105,10.954168846107599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">478</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.1680607433435,10.8375021826636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">576</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.72361631115324,10.7763910732405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">570</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.2430607412756,10.784724406343701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">430</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.19028296495301,10.8513910711688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1080</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.45417184656598,10.270835531649899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">162</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.78472739300748,10.9569466238086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">819</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.74028297736038,10.512502191641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1000</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.99306077574051,10.320835530268701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">948</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.33472740541484,10.393057750496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">666</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.80139405921461,10.7180577415185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">1029</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.04861630219237,10.2986133086604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">796</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.32361632218201,10.545835524053601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">480</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.7597274212687,10.8375021826636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#mes_points">
+		<SimpleData name="id">626</SimpleData>
+		<SimpleData name="value">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-4.91806072266456,10.7375021854259</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,282 @@
+
+R version 3.2.4 (2016-03-10) -- "Very Secure Dishes"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> require(shiny)
+Loading required package: shiny
+Warning message:
+package 'shiny' was built under R version 3.2.5 
+> runApp('.app_design/',launch.browser = T)
+
+Listening on http://127.0.0.1:6428
+Loading required package: ggplot2
+Loading required package: xtable
+Loading required package: raster
+Loading required package: sp
+Warning: package 'sp' was built under R version 3.2.5
+Loading required package: shinydashboard
+
+Attaching package: 'shinydashboard'
+
+The following object is masked from 'package:graphics':
+
+    box
+
+Loading required package: dismo
+Loading required package: stringr
+Loading required package: snow
+Loading required package: plyr
+Loading required package: leaflet
+Loading required package: RColorBrewer
+Loading required package: DT
+
+Attaching package: 'DT'
+
+The following objects are masked from 'package:shiny':
+
+    dataTableOutput, renderDataTable
+
+Loading required package: rgeos
+Warning: package 'rgeos' was built under R version 3.2.5
+rgeos version: 0.3-19, (SVN revision 524)
+ GEOS runtime version: 3.5.0-CAPI-1.9.0 r4084 
+ Linking to sp version: 1.2-3 
+ Polygon checking: TRUE 
+
+Loading required package: rgdal
+Warning: package 'rgdal' was built under R version 3.2.5
+rgdal: version: 1.1-8, (SVN revision 616)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 2.0.1, released 2015/09/15
+ Path to GDAL shared files: C:/Users/dannunzio/Documents/R/win-library/3.2/rgdal/gdal
+ GDAL does not use iconv for recoding strings.
+ Loaded PROJ.4 runtime: Rel. 4.9.1, 04 March 2015, [PJ_VERSION: 491]
+ Path to PROJ.4 shared files: C:/Users/dannunzio/Documents/R/win-library/3.2/rgdal/proj
+ Linking to sp version: 1.2-3 
+[1] "Starting the process"
+Warning in as.POSIXlt.POSIXct(Sys.time()) :
+  unable to identify current timezone 'C':
+please set environment variable 'TZ'
+[1] "read data"
+OGR data source with driver: ESRI Shapefile 
+Source: "../input/aa_test.shp", layer: "aa_test"
+with 4115 features
+It has 11 fields
+ [1] "ID"      "FC_06"   "FC_10"   "FC_14"   "IPCC_06" "IPCC_10" "IPCC_14"
+ [8] "FC_0614" "class"   "code"    "area"   
+[1] "read data"
+OGR data source with driver: ESRI Shapefile 
+Source: "../input/Ocs_dd.shp", layer: "Ocs_dd"
+with 169299 features
+It has 6 fields
+[1] "AREA"       "PERIMETER"  "RESULT1_"   "RESULT1_ID" "TYPE"      
+[6] "ACRES"     
+[1] "AREA"       "PERIMETER"  "RESULT1_"   "RESULT1_ID" "TYPE"      
+[6] "ACRES"     
+[1] "Compute map area calculation"
+$map_class
+ [1] "00" "10" "11" "12" "13" "14" "15" "16" "17" "20" "21" "30" "31" "32" "33"
+[16] "40" "41" "42" "60" "61" "62" "63" "64" "65" "66" "67" "68" "69" "70" "71"
+
+$map_class
+ [1] "00" "10" "11" "12" "13" "14" "15" "16" "17" "20" "21" "30" "31" "32" "33"
+[16] "40" "41" "42" "60" "61" "62" "63" "64" "65" "66" "67" "68" "69" "70" "71"
+
+$map_class
+ [1] "00" "10" "11" "12" "13" "14" "15" "16" "17" "20" "21" "30" "31" "32" "33"
+[16] "40" "41" "42" "60" "61" "62" "63" "64" "65" "66" "67" "68" "69" "70" "71"
+
+$map_class
+ [1] "00" "10" "11" "12" "13" "14" "15" "16" "17" "20" "21" "30" "31" "32" "33"
+[16] "40" "41" "42" "60" "61" "62" "63" "64" "65" "66" "67" "68" "69" "70" "71"
+
+$map_class
+ [1] "00" "10" "11" "12" "13" "14" "15" "16" "17" "20" "21" "30" "31" "32" "33"
+[16] "40" "41" "42" "60" "61" "62" "63" "64" "65" "66" "67" "68" "69" "70" "71"
+
+   map_class     map_area           wi eua  si         wisi equal proportional
+00        00 1.587156e-02 5.314557e-04 0.9 0.3 1.594367e-04    30            0
+10        10 2.575568e+00 8.624231e-02 0.9 0.3 2.587269e-02    30           77
+11        11 4.060753e+00 1.359734e-01 0.9 0.3 4.079202e-02    30          122
+12        12 1.241459e+00 4.156998e-02 0.9 0.3 1.247099e-02    30           37
+13        13 6.675080e+00 2.235135e-01 0.9 0.3 6.705406e-02    30          201
+14        14 1.049064e+01 3.512767e-01 0.9 0.3 1.053830e-01    30          316
+15        15 2.171516e-01 7.271272e-03 0.9 0.3 2.181382e-03    30            6
+16        16 2.596111e-02 8.693020e-04 0.9 0.3 2.607906e-04    30            0
+17        17 3.467423e-02 1.161059e-03 0.9 0.3 3.483177e-04    30            1
+20        20 2.172179e-01 7.273492e-03 0.9 0.3 2.182048e-03    30            6
+21        21 3.091170e-06 1.035071e-07 0.9 0.3 3.105214e-08    30            0
+30        30 3.527214e+00 1.181080e-01 0.9 0.3 3.543239e-02    30          106
+31        31 7.294520e-02 2.442554e-03 0.9 0.3 7.327661e-04    30            2
+32        32 6.409831e-03 2.146318e-04 0.9 0.3 6.438953e-05    30            0
+33        33 1.044592e-01 3.497792e-03 0.9 0.3 1.049338e-03    30            3
+40        40 6.889554e-02 2.306952e-03 0.9 0.3 6.920855e-04    30            2
+41        41 1.373761e-01 4.600009e-03 0.9 0.3 1.380003e-03    30            4
+42        42 2.976287e-05 9.966030e-07 0.9 0.3 2.989809e-07    30            0
+60        60 4.056227e-02 1.358218e-03 0.9 0.3 4.074655e-04    30            1
+61        61 1.023786e-01 3.428123e-03 0.9 0.3 1.028437e-03    30            3
+62        62 6.819346e-02 2.283443e-03 0.9 0.3 6.850328e-04    30            2
+63        63 1.415058e-03 4.738289e-05 0.9 0.3 1.421487e-05    30            0
+64        64 1.156549e-03 3.872678e-05 0.9 0.3 1.161803e-05    30            0
+65        65 9.043266e-02 3.028117e-03 0.9 0.3 9.084351e-04    30            2
+66        66 3.134601e-02 1.049614e-03 0.9 0.3 3.148842e-04    30            0
+67        67 3.106518e-03 1.040210e-04 0.9 0.3 3.120631e-05    30            0
+68        68 4.036179e-03 1.351506e-04 0.9 0.3 4.054517e-05    30            0
+69        69 1.898576e-02 6.357339e-04 0.9 0.3 1.907202e-04    30            0
+70        70 5.501539e-03 1.842178e-04 0.9 0.3 5.526534e-05    30            0
+71        71 2.549651e-02 8.537450e-04 0.9 0.3 2.561235e-04    30            0
+   min      adjprop adjusted final
+00 100 6.411798e-04      100   100
+10 100 1.040479e-01      100   100
+11  NA 1.640464e-01      100   100
+12 100 5.015249e-02      100   100
+13  NA 2.696600e-01      100   100
+14  NA 4.238011e-01      100   100
+15 100 8.772495e-03      100   100
+16 100 1.048778e-03      100   100
+17 100 1.400771e-03      100   100
+20 100 8.775173e-03      100   100
+21 100 1.248772e-07      100   100
+30  NA 1.424925e-01      100   100
+31 100 2.946842e-03      100   100
+32 100 2.589445e-04      100   100
+33 100 4.219945e-03      100   100
+40 100 2.783244e-03      100   100
+41 100 5.549725e-03      100   100
+42 100 1.202361e-06      100   100
+60 100 1.638636e-03      100   100
+61 100 4.135892e-03      100   100
+62 100 2.754881e-03      100   100
+63 100 5.716554e-05      100   100
+64 100 4.672229e-05      100   100
+65 100 3.653301e-03      100   100
+66 100 1.266317e-03      100   100
+67 100 1.254972e-04      100   100
+68 100 1.630537e-04      100   100
+69 100 7.669872e-04      100   100
+70 100 2.222513e-04      100   100
+71 100 1.030009e-03      100   100
+[1] "data.frame"
+   map_class     map_area           wi eua  si         wisi equal proportional
+00        00 1.587156e-02 5.314557e-04 0.9 0.3 1.594367e-04    30            0
+10        10 2.575568e+00 8.624231e-02 0.9 0.3 2.587269e-02    30           77
+11        11 4.060753e+00 1.359734e-01 0.9 0.3 4.079202e-02    30          122
+12        12 1.241459e+00 4.156998e-02 0.9 0.3 1.247099e-02    30           37
+13        13 6.675080e+00 2.235135e-01 0.9 0.3 6.705406e-02    30          201
+14        14 1.049064e+01 3.512767e-01 0.9 0.3 1.053830e-01    30          316
+15        15 2.171516e-01 7.271272e-03 0.9 0.3 2.181382e-03    30            6
+16        16 2.596111e-02 8.693020e-04 0.9 0.3 2.607906e-04    30            0
+17        17 3.467423e-02 1.161059e-03 0.9 0.3 3.483177e-04    30            1
+20        20 2.172179e-01 7.273492e-03 0.9 0.3 2.182048e-03    30            6
+21        21 3.091170e-06 1.035071e-07 0.9 0.3 3.105214e-08    30            0
+30        30 3.527214e+00 1.181080e-01 0.9 0.3 3.543239e-02    30          106
+31        31 7.294520e-02 2.442554e-03 0.9 0.3 7.327661e-04    30            2
+32        32 6.409831e-03 2.146318e-04 0.9 0.3 6.438953e-05    30            0
+33        33 1.044592e-01 3.497792e-03 0.9 0.3 1.049338e-03    30            3
+40        40 6.889554e-02 2.306952e-03 0.9 0.3 6.920855e-04    30            2
+41        41 1.373761e-01 4.600009e-03 0.9 0.3 1.380003e-03    30            4
+42        42 2.976287e-05 9.966030e-07 0.9 0.3 2.989809e-07    30            0
+60        60 4.056227e-02 1.358218e-03 0.9 0.3 4.074655e-04    30            1
+61        61 1.023786e-01 3.428123e-03 0.9 0.3 1.028437e-03    30            3
+62        62 6.819346e-02 2.283443e-03 0.9 0.3 6.850328e-04    30            2
+63        63 1.415058e-03 4.738289e-05 0.9 0.3 1.421487e-05    30            0
+64        64 1.156549e-03 3.872678e-05 0.9 0.3 1.161803e-05    30            0
+65        65 9.043266e-02 3.028117e-03 0.9 0.3 9.084351e-04    30            2
+66        66 3.134601e-02 1.049614e-03 0.9 0.3 3.148842e-04    30            0
+67        67 3.106518e-03 1.040210e-04 0.9 0.3 3.120631e-05    30            0
+68        68 4.036179e-03 1.351506e-04 0.9 0.3 4.054517e-05    30            0
+69        69 1.898576e-02 6.357339e-04 0.9 0.3 1.907202e-04    30            0
+70        70 5.501539e-03 1.842178e-04 0.9 0.3 5.526534e-05    30            0
+71        71 2.549651e-02 8.537450e-04 0.9 0.3 2.561235e-04    30            0
+   min      adjprop adjusted final
+00  10 5.555186e-04       10    10
+10  NA 9.014714e-02       59    59
+11  NA 1.421299e-01       93    93
+12  NA 4.345215e-02       28    28
+13  NA 2.336336e-01      154   154
+14  NA 3.671816e-01      242   242
+15  10 7.600496e-03       10    10
+16  10 9.086616e-04       10    10
+17  10 1.213629e-03       10    10
+20  10 7.602816e-03       10    10
+21  10 1.081937e-07       10    10
+30  NA 1.234556e-01       81    81
+31  10 2.553146e-03       10    10
+32  10 2.243497e-04       10    10
+33  10 3.656163e-03       10    10
+40  10 2.411404e-03       10    10
+41  10 4.808285e-03       10    10
+42  10 1.041727e-06       10    10
+60  10 1.419715e-03       10    10
+61  10 3.583340e-03       10    10
+62  10 2.386831e-03       10    10
+63  10 4.952826e-05       10    10
+64  10 4.048022e-05       10    10
+65  10 3.165222e-03       10    10
+66  10 1.097138e-03       10    10
+67  10 1.087308e-04       10    10
+68  10 1.412698e-04       10    10
+69  10 6.645183e-04       10    10
+70  10 1.925587e-04       10    10
+71  10 8.924003e-04       10    10
+[1] "data.frame"
+[1] "reading CEFile loop"
+[1] "Côte d'Ivoire"
+trying URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Warning in utils::download.file(url = aurl, destfile = fn, method = "auto",  :
+  cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds': HTTP status was '404 Not Found'
+Error in utils::download.file(url = aurl, destfile = fn, method = "auto",  : 
+  cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Warning: Error in utils::download.file: cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Stack trace (innermost first):
+    68: utils::download.file
+    67: .download
+    66: .GADM
+    65: getData
+    64: eval [c:\Users\dannunzio\Documents\countries\cote_ivoire\trainings_cote_ivoire\training_geospatial_mai2016\modules_R\module_6_AA_design_analysis_vector\.app_design\/app.R#742]
+    63: eval
+    62: withProgress
+    61: reactive CEfile [c:\Users\dannunzio\Documents\countries\cote_ivoire\trainings_cote_ivoire\training_geospatial_mai2016\modules_R\module_6_AA_design_analysis_vector\.app_design\/app.R#737]
+    50: CEfile
+    49: download$func [c:\Users\dannunzio\Documents\countries\cote_ivoire\trainings_cote_ivoire\training_geospatial_mai2016\modules_R\module_6_AA_design_analysis_vector\.app_design\/app.R#785]
+     1: runApp
+Error in utils::download.file(url = aurl, destfile = fn, method = "auto",  : 
+  cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Warning: Error in utils::download.file: cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Stack trace (innermost first):
+    52: <Anonymous>
+    51: stop
+    50: CEfile
+    49: download$func [c:\Users\dannunzio\Documents\countries\cote_ivoire\trainings_cote_ivoire\training_geospatial_mai2016\modules_R\module_6_AA_design_analysis_vector\.app_design\/app.R#785]
+     1: runApp
+Error in utils::download.file(url = aurl, destfile = fn, method = "auto",  : 
+  cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Warning: Error in utils::download.file: cannot open URL 'http://biogeo.ucdavis.edu/data/gadm2.8/rds/_adm1.rds'
+Stack trace (innermost first):
+    52: <Anonymous>
+    51: stop
+    50: CEfile
+    49: download$func [c:\Users\dannunzio\Documents\countries\cote_ivoire\trainings_cote_ivoire\training_geospatial_mai2016\modules_R\module_6_AA_design_analysis_vector\.app_design\/app.R#785]
+     1: runApp
+[1] "reading CEFile loop"
+[1] "Cambodia"
+Warning in ReplProj4string(obj, CRS(value)) :
+  A new CRS was assigned to an object with an existing CRS:
++init=epsg:4326 +proj=longlat +datum=WGS84 +no_defs +ellps=WGS84 +towgs84=0,0,0
+without reprojecting.
+For reprojection, use function spTransform

@@ -1,0 +1,111 @@
+
+R version 3.2.4 (2016-03-10) -- "Very Secure Dishes"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> require(shiny)
+Loading required package: shiny
+Warning message:
+package 'shiny' was built under R version 3.2.5 
+> runApp('.app_analysis/',launch.browser = T)
+
+Listening on http://127.0.0.1:3482
+Loading required package: ggplot2
+Loading required package: xtable
+Loading required package: raster
+Loading required package: sp
+Warning: package 'sp' was built under R version 3.2.5
+Loading required package: shinydashboard
+
+Attaching package: 'shinydashboard'
+
+The following object is masked from 'package:graphics':
+
+    box
+
+Loading required package: dismo
+Loading required package: stringr
+Loading required package: snow
+Loading required package: plyr
+Loading required package: leaflet
+Loading required package: RColorBrewer
+Loading required package: DT
+
+Attaching package: 'DT'
+
+The following objects are masked from 'package:shiny':
+
+    dataTableOutput, renderDataTable
+
+Loading required package: rgeos
+Warning: package 'rgeos' was built under R version 3.2.5
+rgeos version: 0.3-19, (SVN revision 524)
+ GEOS runtime version: 3.5.0-CAPI-1.9.0 r4084 
+ Linking to sp version: 1.2-3 
+ Polygon checking: TRUE 
+
+Loading required package: rgdal
+Warning: package 'rgdal' was built under R version 3.2.5
+rgdal: version: 1.1-8, (SVN revision 616)
+ Geospatial Data Abstraction Library extensions to R successfully loaded
+ Loaded GDAL runtime: GDAL 2.0.1, released 2015/09/15
+ Path to GDAL shared files: C:/Users/dannunzio/Documents/R/win-library/3.2/rgdal/gdal
+ GDAL does not use iconv for recoding strings.
+ Loaded PROJ.4 runtime: Rel. 4.9.1, 04 March 2015, [PJ_VERSION: 491]
+ Path to PROJ.4 shared files: C:/Users/dannunzio/Documents/R/win-library/3.2/rgdal/proj
+ Linking to sp version: 1.2-3 
+[1] "Starting the process"
+[1] "read data of validation"
+ [1] "id"                      "location_srs"           
+ [3] "location_x"              "location_y"             
+ [5] "operator"                "elevation"              
+ [7] "slope"                   "aspect"                 
+ [9] "adm1_name"               "country"                
+[11] "actively_saved"          "actively_saved_on_year" 
+[13] "actively_saved_on_month" "actively_saved_on_day"  
+[15] "plot_file"               "ref_code"               
+[17] "confidence"              "map_code"               
+ [1] "id"                      "location_srs"           
+ [3] "location_x"              "location_y"             
+ [5] "operator"                "elevation"              
+ [7] "slope"                   "aspect"                 
+ [9] "adm1_name"               "country"                
+[11] "actively_saved"          "actively_saved_on_year" 
+[13] "actively_saved_on_month" "actively_saved_on_day"  
+[15] "plot_file"               "ref_code"               
+[17] "confidence"              "map_code"               
+Warning: Error in sort.list: 'x' must be atomic for 'sort.list'
+Have you called 'sort' on a list?
+Stack trace (innermost first):
+    72: sort.list
+    71: factor
+    70: table
+    69: renderTable [c:\Users\dannunzio\Documents\countries\cambodia\AA_cambodia\.app_analysis\/app.R#301]
+    68: func
+    67: output$table_check
+     1: runApp
+[1] "read data of area"
+[1] "Legend"
+[1] "test matrix"
+FF_degr 
+FF_prsv 
+FF_sust 
+FO_crop 
+FO_othr 
+FO_rubb 
+OF 
+OO 
